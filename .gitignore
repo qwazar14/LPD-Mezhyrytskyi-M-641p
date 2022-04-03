@@ -1,0 +1,14 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+*.jpg
+*.jpeg
+*.png
+*.xml
+*.idea/
+*.h5
+*.json
+*.pdf
+*.ttf
+/PlateDet/
+/Logger/
